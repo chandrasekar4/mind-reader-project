@@ -1,0 +1,31 @@
+#num{
+    border: 5px solid black;
+    height: 300px;
+    width: 500px;
+    bottom: 250px;
+    margin-top: 130px;
+    font-size: 20px;
+    background-color:;
+    background-image: linear-gradient(#fe938f,#ed3f2c,#a0c0ab);
+}
+#guessinput{
+    border: 4px solid black;
+    height: 35px;
+    width: 150px;
+}
+#btn{
+    height: 38px;
+    width: 75px;
+    text-shadow: 2px 2px #f0422d;
+    font-size: 20px;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4n5do_x5I0QJvw6EquLUxtXfovydIB6O0JQ&s);
+}
+#m{
+    background-color: #ed3f2c;
+    border: 4px solid black;
+    width: 300px;
+    height: 45px;
+    border-radius: 100px;
+}
